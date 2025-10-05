@@ -1,8 +1,10 @@
 {
     "language_colors": {
-      "JavaScript": "#33FF57",  
-      "Python": "#33FF57",     
-      "Java": "#33FF57"  
+      "Jupyter Notebook": "#FF4500",  
+      "Perl": "#FF4500",
+      "Kotlin": "#FF4500"
     },
-    "fileName": "profile-language-chart.svg"
+    "dual_mode": true,                
+    "year": "latest",
+    "fileName": "profile-custom-languages.svg"
   }
