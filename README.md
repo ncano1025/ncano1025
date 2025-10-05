@@ -10,7 +10,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=5abf6b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
 
 ### My 3D Contribution Graph
-![](./profile-3d-contrib/profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ### Connect with me!
 <div>
