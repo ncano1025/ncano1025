@@ -6,6 +6,11 @@
 <!-- ### Studying
 [![Learning](https://skillicons.dev/icons?i=php,go)](https://skillicons.dev) -->
 
+### What I'm listening to:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=5abf6b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
+
+### My 3D Contribution Graph
+![](./profile-3d-contrib/profile-3d-contrib/profile-night-green.svg)
 
 ### Connect with me!
 <div>
@@ -13,12 +18,6 @@
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
 </div>
-
-### What I'm listening to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=5abf6b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
-
-### My 3D Contribution Graph
-![](./profile-3d-contrib/profile-custom-languages.svg)
 
 ### Employer?
 > [!IMPORTANT]  

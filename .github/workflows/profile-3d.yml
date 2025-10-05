@@ -19,7 +19,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: "language-colors.json"
+      - name: Replace Pie Colors
+        run: |
+          sed -i 's/#e34c26/#ffd6e9/g' ./profile-3d-contrib/profile-night-green.svg
+          sed -i 's/#DA5B0B/#ff6ec8/g' ./profile-3d-contrib/profile-night-green.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions
