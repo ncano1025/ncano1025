@@ -1,7 +1,7 @@
 <!-- Natalia's README-->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,node,next,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple)](https://skillicons.dev)
 
 <!-- ### Studying
 [![Learning](https://skillicons.dev/icons?i=php,go)](https://skillicons.dev) -->
