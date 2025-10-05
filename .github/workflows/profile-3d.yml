@@ -21,8 +21,8 @@ jobs:
       - name: Replace Pie Colors
         run: |
           sed -i 's/#e34c26/#9F195E/g' ./profile-3d-contrib/profile-night-green.svg
-          sed -i 's/#f34b7d/#EC83B9/g' ./profile-3d-contrib/profile-night-green.svg
-          sed -i 's/#663399/#E13D92/g' ./profile-3d-contrib/profile-night-green.svg
+          sed -i 's/#663399/#EC83B9/g' ./profile-3d-contrib/profile-night-green.svg
+          sed -i 's/#f34b7d/#E13D92/g' ./profile-3d-contrib/profile-night-green.svg f34b7d
           sed -i 's/#f1e05a/#F7CAE1/g' ./profile-3d-contrib/profile-night-green.svg 
           
       - name: Commit & Push
