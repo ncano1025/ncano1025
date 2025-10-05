@@ -1,8 +1,6 @@
 name: GitHub-Profile-3D-Contrib
 on:
   schedule:
-    # Runs at 18:00 UTC (1:00 PM EST, 10:00 AM PST, etc.)
-    # Change the cron expression if you want a different daily time.
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -20,16 +18,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-night-green-settings.json 
+
       - name: Replace Pie Colors
         run: |
           sed -i 's/#e34c26/#fed9e3/g' ./profile-3d-contrib/profile-night-green.svg
           sed -i 's/#DA5B0B/#fda7be/g' ./profile-3d-contrib/profile-night-green.svg
           sed -i 's/#f1e05a/#fb759a/g' ./profile-3d-contrib/profile-night-green.svg
           sed -i 's/#663399/#fa4375/g' ./profile-3d-contrib/profile-night-green.svg
-        # future colors
-          sed -i 's/#f1e05a/#fa4375/g' ./profile-3d-contrib/profile-night-green.svg
-          sed -i 's/#f1e05a/#fa4375/g' ./profile-3d-contrib/profile-night-green.svg
-          sed -i 's/#f1e05a/#fa4375/g' ./profile-3d-contrib/profile-night-green.svg
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
