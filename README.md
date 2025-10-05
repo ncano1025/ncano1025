@@ -15,7 +15,7 @@
 </div>
 
 ### What I'm listening to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=5abf6b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
 
 ### Employer?
 > [!IMPORTANT]  
