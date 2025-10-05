@@ -21,10 +21,10 @@ jobs:
       - name: Replace Pie Colors
         run: |
           sed -i 's/#e34c26/#9F195E/g' ./profile-3d-contrib/profile-night-green.svg
-          sed -i 's/#da5b0b/#EC83B9/g' ./profile-3d-contrib/profile-night-green.svg
+          sed -i 's/#663399/#EC83B9/g' ./profile-3d-contrib/profile-night-green.svg
           sed -i 's/#f1e05a/#E13D92/g' ./profile-3d-contrib/profile-night-green.svg
-          sed -i 's/#663399/#F7CAE1/g' ./profile-3d-contrib/profile-night-green.svg
-
+          sed -i 's/#da5b0b/#F7CAE1/g' ./profile-3d-contrib/profile-night-green.svg 
+          
       - name: Commit & Push
         run: |
           git config user.name github-actions
