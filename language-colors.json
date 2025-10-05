@@ -1,8 +1,8 @@
 {
     "language_colors": {
-      "Jupyter Notebook": "#FF4500",  
-      "Perl": "#FF4500",
-      "Kotlin": "#FF4500"
+      "JavaScript": "#FF4500",  
+      "CSS": "#FF4500",
+      "HTML": "#FF4500"
     },
     "dual_mode": true,                
     "year": "latest",
