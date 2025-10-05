@@ -20,14 +20,9 @@ jobs:
 
       - name: Replace Pie Colors
         run: |
-          
-        # HTML
           sed -i 's/#e34c26/#c85373/g' ./profile-3d-contrib/profile-night-green.svg
-        # JavaScript
           sed -i 's/#DA5B0B/#fdd1dd/g' ./profile-3d-contrib/profile-night-green.svg
-        # C++
           sed -i 's/#f1e05a/#fb779b/g' ./profile-3d-contrib/profile-night-green.svg
-        # CSS
           sed -i 's/#663399/#fca4bc/g' ./profile-3d-contrib/profile-night-green.svg
 
       - name: Commit & Push
