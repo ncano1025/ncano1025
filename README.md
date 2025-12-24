@@ -7,14 +7,15 @@
 ## About Me
 Hey! I'm Natalia, a student at the University of Central Florida studying Computer Science. I love anything software/engineering, especially robotics and artificial intelligence. 
 
-Professionally, I have experience with mobile app development at Google and am incoming at L3Harris on their Space and Airborne Systems team. 
+Professionally, I have experience with mobile app development at <span style="color: #ff9fd2ff;">**Google**</span> and am incoming at <span style="color: #abe971ff;">**L3Harris**</span>
+ on their Space and Airborne Systems team. 
 
-I have also been invited as a panelist for Women in Electrical Engineering and Computer Science, and truly enjoy sharing my experiences to underclassmen just starting in the software engineering industry!
-
-
-
+I have also been invited as a panelist for <a href="https://www.linkedin.com/company/women-in-electrical-engineering-and-computer-science/" >Women in Electrical Engineering and Computer Science</a>, and truly enjoy sharing my experiences to underclassmen just starting in the software engineering industry!
 
 
+
+<span style="color: #ff9fd2ff;">a custom hex color</span>
+<span style="color: #abe971ff;">a custom hex color</span>
 
 
 ### Main skills
