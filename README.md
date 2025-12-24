@@ -5,7 +5,11 @@
 ---
 
 ## About Me
-Hey! I'm Natalia, a student at the University of Central Florida studying Computer Science. I love anything software/engineering, especially robotics and artificial intelligence. I've done everything from mobile app development, to competitive robotics, and panelist events where I talk about my experience as an undergraduate software engineer to ensure my underclassmen learn from my successes and failures!
+Hey! I'm Natalia, a student at the University of Central Florida studying Computer Science. I love anything software/engineering, especially robotics and artificial intelligence. 
+
+Professionally, I have experience with mobile app development at Google and am incoming at L3Harris on their Space and Airborne Systems team. 
+
+I have also been invited as a panelist for Women in Electrical Engineering and Computer Science, and truly enjoy sharing my experiences to underclassmen just starting in the software engineering industry!
 
 
 
