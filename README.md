@@ -2,6 +2,8 @@
 
 <img src="header-banner.png" alt="Natalia Cano Banner" width="1280" />
 
+---
+
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple)](https://skillicons.dev)
 
