@@ -1,14 +1,18 @@
 <!-- Natalia's README-->
 
 <img src="header-banner.png" alt="Natalia Cano Banner" width="1280" />
-
 ---
+
+
+
+
+
+
+
+
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple)](https://skillicons.dev)
-
-<!-- ### Studying
-[![Learning](https://skillicons.dev/icons?i=php,go)](https://skillicons.dev) -->
 
 ### What I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=5abf6b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
