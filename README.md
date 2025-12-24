@@ -1,5 +1,7 @@
 <!-- Natalia's README-->
 
+<img src="header-banner.png" alt="Natalia Cano Banner" width="1280" />
+
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple)](https://skillicons.dev)
 
@@ -12,13 +14,16 @@
 ### My 3D Contribution Graph
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-### Connect with me!
+### Important Links
 <div>
     <a href="https://www.linkedin.com/in/natalia-cano1025/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
+    <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    </a>
 </div>
 
-### Employer?
+
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing" download>Download my resume</a>
