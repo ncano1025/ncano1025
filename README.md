@@ -1,9 +1,11 @@
 <!-- Natalia's README-->
 
 <img src="header-banner.png" alt="Natalia Cano Banner" width="1280" />
+
 ---
 
-
+## About Me
+Hey! I'm Natalia, a student at the University of Central Florida studying Computer Science. I love anything software/engineering, especially robotics and artificial intelligence. I've done everything from mobile app development, to competitive robotics, and panelist events where I talk about my experience as an undergraduate software engineer to ensure my underclassmen learn from my successes and failures!
 
 
 
