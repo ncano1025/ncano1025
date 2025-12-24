@@ -19,17 +19,14 @@ I have also been invited as a panelist for <a href="https://www.linkedin.com/com
 ### What I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=5abf6b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
 
-### My 3D Contribution Graph
-![](./profile-3d-contrib/profile-night-green.svg)
-
 ### Important Links
 <div>
     <a href="https://www.linkedin.com/in/natalia-cano1025/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing">
+    <!-- <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-    </a>
+    </a> -->
 </div>
 
 
