@@ -20,8 +20,8 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
 
 #### Developer Tools
 <picture>
-  <source media="(prefers-color-scheme: dark)" src="/graphics/dev-tools-dark-mode.png">
-  <source media="(prefers-color-scheme: light)" src="/graphics/dev-tools-light-mode.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./graphics/dev-tools-dark-mode.png">
+  <source media="(prefers-color-scheme: light)" srcset="./graphics/dev-tools-light-mode.png">
   <img alt="Shows a black logo in light color mode and a white one in dark color mode." />
 </picture>
           
