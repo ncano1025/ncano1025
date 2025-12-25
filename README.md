@@ -11,7 +11,7 @@ Professionally, I have experience with mobile app development at ***Google*** an
 
 I have also been a panelist for <a href="https://www.linkedin.com/company/women-in-electrical-engineering-and-computer-science/" >Women in Electrical Engineering and Computer Science</a>, and truly enjoy sharing my experiences to underclassmen just starting in the software engineering industry!
 
-[![LinkedIn](/resized-images/linkedin-pixel-button.png)](https://www.linkedin.com/in/natalia-cano1025/) &nbsp; [![Resume](/resized-images/resume-pixel-button.png)](https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing) &nbsp; <img src="/resized-images/upcoming-project-pixel-button.png" alt="Upcoming Project..."/>
+[![LinkedIn](/resized-images/linkedin-pixel-button.png)](https://www.linkedin.com/in/natalia-cano1025/) &emsp;&emsp; [![Resume](/resized-images/resume-pixel-button.png)](https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing) &emsp;&emsp; <img src="/resized-images/upcoming-project-pixel-button.png" alt="Upcoming Project..."/>
 
 ---
 
