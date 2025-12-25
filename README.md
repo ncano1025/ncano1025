@@ -1,6 +1,10 @@
 <!-- Natalia's README-->
 
-<img src="header-banner.png" alt="Natalia Cano Banner" width="1280" />
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
+<img src="/graphics/header-banner.png" alt="Natalia Cano Banner" width="1280" />
 
 ---
 
@@ -17,7 +21,7 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
 
 <!-- kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple -->
 
-<img src="cdn.jsdelivr.net" alt="Python" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />          
 
 
 ### What I'm listening to:
