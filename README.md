@@ -23,7 +23,7 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
 ### Important Links
 <div>
     <a href="https://www.linkedin.com/in/natalia-cano1025/">
-        <img src="/Linkedin Pixel Button 2.png" alt="LinkedIn" width="200"/>
+        <img src="/Linkedin Pixel Button.png" alt="LinkedIn" width="200"/>
     </a>
     <!-- <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
