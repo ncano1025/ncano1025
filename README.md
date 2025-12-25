@@ -4,7 +4,7 @@
 
 ---
 
-## 🌸 About Me 🌸
+## 🌸&ensp;About Me&ensp;🌸
 <!-- Hey! I'm Natalia, a student at the University of Central Florida studying Computer Science. I love anything software/engineering, especially ***robotics*** and ***artificial intelligence***. Currently, I satisfy my programming urges through hackathons, personal projects, and my competitive robotics team! 
 
 Professionally, I have experience with mobile app development at ***𝔾𝕠𝕠𝕘𝕝𝕖***, and I am incoming at ***𝕃𝟛𝕙𝕒𝕣𝕣𝕚𝕤*** on their Space and Airborne Systems team. 
@@ -23,7 +23,7 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
 ---
 
 <!-- kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple -->
-### 🪷 Tech Skills 🪷
+### 🪷&ensp;Tech Skills&ensp;🪷
 
 #### Languages
 *Coming soon...*
@@ -39,5 +39,5 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
 </picture>
           
 
-### ✨🎶 Check out my vibes 🎶✨
+### ✨🎶&ensp;Check out my vibes&ensp;🎶✨
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=5abf6b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
