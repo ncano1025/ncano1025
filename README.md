@@ -18,6 +18,12 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
 <!-- kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple -->
 ### Tech Skills
 
+#### Languages
+*Coming soon...*
+
+#### Frameworks/APIs
+*Coming soon...*
+
 #### Developer Tools
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./graphics/dev-tools-dark-mode.png" width="650">
