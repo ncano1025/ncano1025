@@ -21,7 +21,7 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
 
 <!-- kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" width="50" height="50"/>          
 
 
 ### What I'm listening to:
