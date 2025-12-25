@@ -23,15 +23,13 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
 ### Important Links
 <div>
     <a href="https://www.linkedin.com/in/natalia-cano1025/">
-        <img src="/Linkedin Pixel Button.png" alt="LinkedIn" width="200"/>
+        <img src="/linkedin-pixel-button.png" alt="LinkedIn" width="200"/>
     </a>
-    <!-- <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-    </a> -->
+
+    <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing">
+        <img src="/resume-pixel-button.png" alt="Resume" width="200"/>
+    </a>
+
+    <img src="/upcoming-pixel-button.png" alt="LinkedIn" width="200"/>
+
 </div>
-
-[Hover your mouse here to see the tooltip](## "This is the hidden text that appears on hover.")
-
-
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing" download>Download my resume</a>
