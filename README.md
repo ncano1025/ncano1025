@@ -25,11 +25,8 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
     <a href="https://www.linkedin.com/in/natalia-cano1025/">
         <img src="/linkedin-pixel-button.png" alt="LinkedIn" width="200"/>
     </a>
-
     <a href="https://drive.google.com/file/d/1WMb7hkuK_MpGet_hpN1Zs_1VCwEnvn5J/view?usp=sharing">
         <img src="/resume-pixel-button.png" alt="Resume" width="200"/>
     </a>
-
     <img src="/upcoming-pixel-button.png" alt="LinkedIn" width="200"/>
-
 </div>
