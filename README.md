@@ -26,7 +26,11 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
 ## 🪷&ensp;Tech Skills&ensp;🪷
 
 ### Languages
-*Coming soon...*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./graphics/languages-dark-mode/png" width="650">
+  <source media="(prefers-color-scheme: light)" srcset="./graphics/languages-light-mode.png" width="650">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." />
+</picture>
 
 ### Frameworks/APIs
 *Coming soon...*
