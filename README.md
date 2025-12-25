@@ -11,17 +11,7 @@ Professionally, I have experience with mobile app development at ***Google*** an
 
 I have also been a panelist for <a href="https://www.linkedin.com/company/women-in-electrical-engineering-and-computer-science/" >Women in Electrical Engineering and Computer Science</a>, and truly enjoy sharing my experiences to underclassmen just starting in the software engineering industry!
 
----
-
-### Main Skills
-
-<!-- kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple -->
-
-### What I'm listening to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=5abf6b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
-
-### Important Links
-<div>
+<div style="text-align: center;">
     <a href="https://www.linkedin.com/in/natalia-cano1025/">
         <img src="/linkedin-pixel-button.png" alt="LinkedIn" width="200"/>
     </a>
@@ -30,3 +20,12 @@ I have also been a panelist for <a href="https://www.linkedin.com/company/women-
     </a>
     <img src="/upcoming-project-pixel-button.png" alt="LinkedIn" width="200"/>
 </div>
+
+---
+
+### Main Skills
+
+<!-- kotlin,java,py,c,cpp,ts,js,html,css,tailwind,react,vercel,vite,nodejs,nextjs,npm,flask,maven,gradle,androidstudio,vscode,eclipse,git,github,figma,latex,windows,apple -->
+
+### What I'm listening to:
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=5abf6b&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=rgnpi5ck9qc3qefoohcd2vq6c&redirect=true)
